@@ -1,0 +1,549 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.container{
+  background: url(philip-myrtorp-r27EWxdHdVw-unsplash.jpg);
+  height: 100vh;
+  background-size: 100% 100%;
+
+}
+
+.container .navbar{
+    width: 100%;
+    height: 80px;
+    background: rgb(black);
+}
+
+.navbar .logo{
+   display: inline-block;
+   position: absolute;
+    margin-left: -20px;
+    margin-top: -39px;
+    
+}
+
+.navbar ul{
+float: right;
+margin-right: 50px;
+}
+
+.navbar ul li{
+     list-style: none;
+     display: inline-block;
+     margin: 0 8px;
+     line-height: 80px;
+}
+
+.navbar ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 6px 13px;
+  
+  }
+  
+  .navbar ul li a.active,
+  .navbar ul li a:hover{
+    background: gray;
+    border-radius: 100px;
+  }
+  
+  u{
+    position: absolute;
+    top:4235px;
+    right: 0px;
+    left: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+
+  body{
+    background-color: black;
+  }
+
+
+
+.baslik{
+    font-size: 3em;
+    color: rgb(209, 209, 209);
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    right: 100px;
+
+}
+
+.baslik2{
+    font-size: 2em;
+    color: greenyellow;
+    position: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.gezegenyazisi{
+    position: absolute;
+    font-size: 20px;
+    color: rgb(230, 230, 230);
+    margin-top: 5px;
+    right: 10px;
+    left: 10px;
+}
+
+.baslikfotosu{
+    background: url(32QMHA7GgLX4LpXcieSo5R.jpg);
+    background-size: 100% 100%;
+    height: 100vh;
+    margin-top: 340px;
+
+}
+
+.gunes{
+ font-family: Arial, Helvetica, sans-serif;
+ 
+  display: block;
+  position: center;
+  position: center;
+  margin-top: -450px;
+   font-size: 20px;
+   margin-bottom: 23px;
+   padding-left: 120px;
+   padding-right: 800px;
+}
+
+
+.gunes :hover{
+color: blueviolet;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+.gunes a{
+text-decoration: underline;
+color:greenyellow ;
+position: center;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.gunesyazisi{
+    color: white;
+    font-family: bold;
+   position: center;
+    margin-top: -10px;
+     font-size: 23px;
+    padding-left: 100px;
+  padding-right: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.gunessitemindeki{
+  position: center;
+  color: greenyellow;
+  margin-top: 300px;
+  font-weight: bold;
+font-size: 2em;
+}
+
+.gunessitemindekiaciklama{
+color: white;
+font-size: 20px;
+position: center;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.mercurlink a{
+color: white;
+font-size: 20px;
+text-decoration: underline;
+font-family: Arial, Helvetica, sans-serif;
+position: center;
+
+}
+
+.mercurlink{
+
+padding-bottom: 5px;
+position: center;
+margin-top: 10px
+
+}
+
+
+.mercurlink :hover{
+  color: blueviolet;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.mercur img {
+  position: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+}
+
+.mercuraciklama{
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.venuslink{
+  padding-bottom: 5px;
+  position: center;
+  margin-top: 20px
+
+}
+.venuslink a{
+
+  color: white;
+font-size: 20px;
+text-decoration: underline;
+font-family: Arial, Helvetica, sans-serif;
+position: center;
+
+}
+
+.venuslink :hover{
+  color: blueviolet;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.venusimg{
+  position: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.venusaciklama{
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+.dunyaimg{
+
+  position: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.dunyalink{
+  padding-bottom: 5px;
+
+}
+.dunyalink a{
+  color: white;
+font-size: 20px;
+text-decoration: underline;
+font-family: Arial, Helvetica, sans-serif;
+position: center;
+
+}
+
+.dunyalink :hover{
+
+  color: blueviolet;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.dunyaaciklama{
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+
+
+
+.marsimg{
+  position: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.marslink{
+  padding-bottom: 5px;
+  position: center;
+  margin-top: -70px;
+}
+
+.marslink a{
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+  position: center;
+  
+}
+
+.marslink :hover{
+  color: blueviolet;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.marsaciklama{
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.jupiterimg{
+  position: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.jupiterlink{
+  padding-bottom: 5px;
+  position: center;
+  margin-top: 10px
+}
+
+.jupiterlink a{
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+  position: center;
+
+}
+
+.jupiterlink :hover{
+  color: blueviolet;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.jupiteraciklama{
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+} 
+
+
+
+
+
+
+.saturnimg{
+  position: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+.saturnlink{
+  padding-bottom: 5px;
+
+}
+
+.saturnlink a{
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+  position: center;
+}
+
+.saturnlink :hover{
+
+  color: blueviolet;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.saturnaciklama{
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+.uranusimg{
+
+  position: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+.uranuslink{
+  padding-bottom: 5px;
+}
+
+.uranuslink a{
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+  position: center;
+}
+
+.uranuslink :hover{
+  color: blueviolet;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.uranusaciklama{
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-bottom: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.neptunimg{
+  position: center;
+  margin-top: -100px;
+  padding-bottom: 10px;
+
+}
+.neptunlink{
+  margin-top: -100px;
+
+}
+
+.neptunlink a{
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+  position: center;
+}
+
+.neptunlink :hover{
+
+  color: blueviolet;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.neptunaciklama{
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+ margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hakkindayeri{
+background-size: 100% 100%;
+width: 100vh;
+
+}
+
+
+
+
+
+
+
+.ccontainer{
+  background: url(3818986.jpg);
+  height: 18vh;
+  background-size: 100% 100%;
+  margin-top: 20px;
+}
+
+
+
+
+
+
+.buweb{
+color: black;
+position: center;
+margin-top: -58px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.buweb :hover{
+  color: blueviolet;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.buweb a{
+text-decoration: none;
+color: yellowgreen;
+
+
+}

@@ -1,0 +1,75 @@
+*{
+    background-color: black;
+}
+
+.body{
+    background-color: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.container{
+  background: url();
+  height: 100vh;
+  background-size: 100% 100%;
+  background-color: black;
+
+}
+
+.container .navbar{
+    width: 100%;
+    height: 80px;
+    background: rgb(black);
+}
+
+.navbar .logo{
+   display: inline-block;
+   position: absolute;
+    margin-left: -20px;
+    margin-top: -39px;
+    
+}
+
+.navbar ul{
+float: right;
+margin-right: 50px;
+}
+
+.navbar ul li{
+     list-style: none;
+     display: inline-block;
+     margin: 0 8px;
+     line-height: 80px;
+}
+
+.navbar ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 6px 13px;
+  
+  }
+  
+  .navbar ul li a.active,
+  .navbar ul li a:hover{
+    background: gray;
+    border-radius: 100px;
+  }
+
+
+
+
+  p{
+position: absolute;
+top: 100px;
+left: 20px;
+right: 20px;
+
+  }
+
+
